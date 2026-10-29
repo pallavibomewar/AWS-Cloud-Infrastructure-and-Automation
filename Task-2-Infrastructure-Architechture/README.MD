@@ -33,8 +33,6 @@ User → CloudFront → Amazon S3 → index.html
 
 CloudFront uses Origin Access Control (OAC) to access the S3 bucket securely.
 
-## Architecture Diagram
 
-![AWS Architecture Diagram](aws_architecture_correct_simple.png)
 
 
