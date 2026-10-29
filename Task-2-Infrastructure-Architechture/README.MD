@@ -37,8 +37,4 @@ CloudFront uses Origin Access Control (OAC) to access the S3 bucket securely.
 
 ![AWS Architecture](aws_architecture.png)
 
-## Notes
-- The VPC and subnets were existing resources in an authorized practice AWS account.
-- No new EC2 or RDS instances were launched.
-- The CloudFront distribution was disabled after testing to avoid unnecessary usage.
-- The architecture diagram documents the available practice infrastructure, not a company development environment.
+
