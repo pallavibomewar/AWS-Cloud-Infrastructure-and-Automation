@@ -35,6 +35,6 @@ CloudFront uses Origin Access Control (OAC) to access the S3 bucket securely.
 
 ## Architecture Diagram
 
-![AWS Architecture](aws_architecture.png)
+![AWS Architecture Diagram](aws_architecture_correct_simple.png)
 
 
